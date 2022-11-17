@@ -1,0 +1,57 @@
+
+
+.navbar {
+  margin-top: 30px;
+}
+
+input {
+  background-color: #051933;
+  margin-left: 10px;
+  border: solid 0.08em rgba(255,255,255,.5);
+  border-radius: 5px;
+  height: 60px;
+  width: 400px;
+}
+
+.btn {
+  background-color: #a3ffbf;
+  padding: 12px;
+  width: 155px;
+  border-radius: 30px;
+  margin-left: 36px;
+}
+
+.p1{
+  margin-top: 20px;
+  color: aliceblue;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 20px;
+  cursor: pointer;
+  margin-left: 11px;
+}
+
+.d-flex:hover{
+  color: #838486;
+}
+
+.imgNav {
+  margin-top: 5px;
+  width: 75px;
+  height: 35px;
+}
+
+.textH1 {
+  margin-top: 90px;
+  margin-bottom: 0.5em;
+  color: #fff;
+}
+
+.textH2 {
+  color: #fff;
+  font-size: 20px;
+}
+
+.container2 {
+  margin-top: 80px;
+}

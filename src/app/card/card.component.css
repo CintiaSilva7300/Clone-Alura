@@ -1,0 +1,57 @@
+.container {
+
+}
+
+.img1 {
+  width: 50px;
+  height: 50px;
+  margin-left: 25px;
+  margin-top: 10px;
+}
+
+.card {
+  margin-top: 40px;
+  background-color: #051d3b;
+  height: 220px;
+  padding: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.PROGRAMAÇÃO {
+  color: #00c86f;
+}
+
+.FRONT-END{
+  color: #63c2ef;
+}
+
+.DATASCIENCE {
+  color: #85b73b;
+}
+
+.DEVOPS {
+  color: #f06165;
+}
+
+.UXDesign {
+color: #db6ebd;
+}
+
+.MOBILE {
+  color: #feb905;
+}
+
+.INOVAÇÃOGESTÃO {
+  color: #fd8a2a;
+}
+
+.card:hover {
+  margin-top: 20px;
+  border-color:blue ;
+}
+
+.cursos1 {
+  color: white;
+  font-size: 12px;
+}
